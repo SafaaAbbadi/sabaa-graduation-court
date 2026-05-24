@@ -14,6 +14,9 @@
 - `assets/images/04-sabaa-certificate.jpeg`
 - `assets/images/05-sabaa-law-robe.jpeg`
 - `assets/images/06-sabaa-cap-roses.jpeg`
+- `assets/images/07-graduation-news-spread.jpeg`
+- `assets/images/08-law-sabaa-cover.jpeg`
+- `assets/images/09-law-sabaa-back.jpeg`
 
 ## الفيديو
 
